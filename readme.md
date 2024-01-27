@@ -1,3 +1,4 @@
 # Natours Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose , html and css.
+
+An application has been built using Node.js, Express, MongoDB with Mongoose, and HTML/CSS. It follows the REST architecture and utilizes the MVC platform for organized code structure, enabling efficient data management and scalability.
